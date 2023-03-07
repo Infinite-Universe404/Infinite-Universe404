@@ -23,6 +23,11 @@
 <a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adwaitpurao" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Education</h3>
+<a href="https://ves.ac.in/svhs/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Vesitlog-transparent.png" title="SSC" alt="Swami Vivekanand High School" height="30" width="40" />&nbsp;</a>Swami Vivekanand High School'19<br></br>
+<a href="http://www.ruparel.edu/" target="blank"><img align="center" src="https://bookuradmission.com/college_logo/D.G.%20Ruparel%20College%20of%20Arts,%20Commerce%20&%20Science%20(DGRASC)_logo210922090339.jpg" title="HSC" alt="D.G. Ruparel" height="30" width="40" />&nbsp;</a>D.G.Ruparel College of Arts,Science and Commerce'19<br></br>
+<a href="https://www.spit.ac.in/" target="blank"><img align="center" src="https://www.spit.ac.in/wp-content/themes/spit-main/images/SPIT_logo.png" title="B.Tech CE" alt="S.P.I.T" height="30" width="40" />&nbsp;</a>Sardar Patel Institute of Technology'25<br></br>
+
 <h3 align="left">My Skills Set:</h3>
 <p align="left">
   
@@ -65,8 +70,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dare-marvel&show_icons=true&locale=en&layout=compact" alt="dare-marvel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Infinite-Universe404&show_icons=true&locale=en&layout=compact" alt="Infinite-Universe404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&show_icons=true&locale=en" alt="dare-marvel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Infinite-Universe404&show_icons=true&locale=en" alt="Infinite-Universe404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dare-marvel&" alt="dare-marvel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Universe404&" alt="Infinite-Universe404" /></p>
+
+![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
